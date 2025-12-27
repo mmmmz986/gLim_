@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\gLim_\\Mfc_Youtube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_YoutubeDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\Mfc_YoutubeDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\MfcYoutube.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\MfcYoutube.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
     },
     {
       "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_YoutubeDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\Mfc_YoutubeDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_YoutubeDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\Mfc_YoutubeDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_Youtube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\Mfc_Youtube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\MfcYoutube.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
-      "RelativeMoniker": "D:0:0:{D264164D-C2BE-D677-2CD9-D5FD972CD50B}|Mfc_Youtube\\Mfc_Youtube.vcxproj|solutionrelative:Mfc_Youtube\\MfcYoutube.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
     }
   ],
   "DocumentGroupContainers": [
@@ -37,16 +37,8 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\pch.h",
               "RelativeDocumentMoniker": "Mfc_Youtube\\pch.h",
@@ -58,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "framework.h",
               "DocumentMoniker": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\framework.h",
               "RelativeDocumentMoniker": "Mfc_Youtube\\framework.h",
@@ -70,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mfc_Youtube.h",
               "DocumentMoniker": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_Youtube.h",
               "RelativeDocumentMoniker": "Mfc_Youtube\\Mfc_Youtube.h",
@@ -82,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Mfc_YoutubeDlg.h",
               "DocumentMoniker": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_YoutubeDlg.h",
               "RelativeDocumentMoniker": "Mfc_Youtube\\Mfc_YoutubeDlg.h",
@@ -101,21 +93,22 @@
               "RelativeDocumentMoniker": "Mfc_Youtube\\Mfc_YoutubeDlg.cpp",
               "ToolTip": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\Mfc_YoutubeDlg.cpp",
               "RelativeToolTip": "Mfc_Youtube\\Mfc_YoutubeDlg.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-26T15:32:36.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MfcYoutube.rc - IDD_MFC_YOUTUBE_DIALOG - Dialog",
               "DocumentMoniker": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\MfcYoutube.rc",
               "RelativeDocumentMoniker": "Mfc_Youtube\\MfcYoutube.rc",
               "ToolTip": "C:\\Projects\\gLim_\\Mfc_Youtube\\Mfc_Youtube\\MfcYoutube.rc - IDD_MFC_YOUTUBE_DIALOG - Dialog",
               "RelativeToolTip": "Mfc_Youtube\\MfcYoutube.rc - IDD_MFC_YOUTUBE_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-26T15:32:02.859Z"
+              "WhenOpened": "2025-12-26T15:32:02.859Z",
+              "EditorCaption": " - IDD_MFC_YOUTUBE_DIALOG - Dialog"
             }
           ]
         }
