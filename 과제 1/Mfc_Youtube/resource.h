@@ -14,6 +14,7 @@
 #define IDC_BTN_MOVE                    1005
 #define IDC_STATIC_P2                   1006
 #define IDC_STATIC_P3                   1007
+#define IDC_STATIC_P5                   1009
 
 // Next default values for new objects
 // 
