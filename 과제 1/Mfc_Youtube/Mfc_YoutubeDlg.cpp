@@ -37,6 +37,8 @@ END_MESSAGE_MAP()
 BOOL CMfcYoutubeDlg::OnInitDialog()
 {
     CDialogEx::OnInitDialog();
+    
+    ModifyStyle(0, WS_CLIPCHILDREN);
 
     // 기본값
     SetDlgItemInt(IDC_RADIUS, 12, FALSE); // 클릭 지점 원 반지름
@@ -372,12 +374,13 @@ bool CMfcYoutubeDlg::ComputeCircumcircle()
 // ====================== Rendering ======================
 void CMfcYoutubeDlg::RenderScene()
 {
+    // 캔버스 없으면 return
     if (m_canvas.IsNull()) return;
 
-    // 배경
+    // 배경 흰색으로 덮기
     ClearCanvas(RGB(255, 255, 255));
 
-    // 현재 입력값 반영
+    // 현재 입력값(반지름, 외접원 두께) 반영
     const int pr = GetPointRadius();
     const int thick = GetGardenThickness();
 
